@@ -34,3 +34,5 @@ The analysis revealed that academic pressure, study satisfaction, work/study hou
 Works Cited: 
 
 Abbott, G. (2021, September 13). What are the warning signs of depression in college students? National Alliance on Mental Illness. https://www.nami.org/Blogs/NAMI-Blog/September-2021/What-Are-the-Warning-Signs-of-Depression-in-College-Students
+
+Bobbitt, Z. (2023, February 17). What is Considered a Good vs. Bad Residual Plot? Statology. https://www.statology.org/good-vs-bad-residual-plot/
